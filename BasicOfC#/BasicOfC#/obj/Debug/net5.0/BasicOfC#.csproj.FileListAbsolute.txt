@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\bin\Debug\net5.0\BasicOfC#.exe
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\bin\Debug\net5.0\BasicOfC#.deps.json
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\bin\Debug\net5.0\BasicOfC#.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\bin\Debug\net5.0\BasicOfC#.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\bin\Debug\net5.0\BasicOfC#.dll
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\bin\Debug\net5.0\BasicOfC#.pdb
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\obj\Debug\net5.0\BasicOfC#.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\obj\Debug\net5.0\BasicOfC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\obj\Debug\net5.0\BasicOfC#.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\obj\Debug\net5.0\BasicOfC#.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\obj\Debug\net5.0\BasicOfC#.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\obj\Debug\net5.0\BasicOfC#.dll
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\obj\Debug\net5.0\refint\BasicOfC#.dll
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\obj\Debug\net5.0\BasicOfC#.pdb
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\obj\Debug\net5.0\BasicOfC#.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\JavaTPoint_CSharpCoding\BasicOfC#\BasicOfC#\obj\Debug\net5.0\ref\BasicOfC#.dll
